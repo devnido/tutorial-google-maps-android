@@ -24,8 +24,9 @@ No olvidar agregar huella SHA-1 y crear proyecto en [Console Developer](https://
 
 cd "C:/Users/Hermosa Programación/.android."
 
+<pre>
 keytool -list -v -keystore "debug.keystore" -alias androiddebugkey -storepass android -keypass android
-
+</pre>
 
 
 
