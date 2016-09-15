@@ -1,10 +1,10 @@
-# tutorial-google-maps-android
+# Google Maps Android
 Código del tutorial android sobre manejo de mapas con Google Maps
 
 ###### Fuente
-`
+```
 http://www.hermosaprogramacion.com/2016/05/google-maps-android-api-v2/
-`
+```
 
 1.  Descargar y configurar los Google Play Services
 2.  Obtener huella SHA-1
