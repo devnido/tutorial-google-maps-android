@@ -22,10 +22,16 @@ http://www.hermosaprogramacion.com/2016/05/google-maps-android-api-v2/
 
 No olvidar agregar huella SHA-1 y crear proyecto en [Console Developer](https://console.developers.google.com)
 
-cd "C:/Users/Hermosa Programación/.android."
+<pre>
+<code>
+cd "C:/Users/Tu usuario/.android."
+</code>
+</pre>
 
 <pre>
+<code>
 keytool -list -v -keystore "debug.keystore" -alias androiddebugkey -storepass android -keypass android
+</code>
 </pre>
 
 
