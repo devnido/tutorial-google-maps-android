@@ -3,18 +3,18 @@ Código del tutorial android sobre manejo de mapas con Google Maps
 
 http://www.hermosaprogramacion.com/2016/05/google-maps-android-api-v2/
 
-Descargar y configurar los Google Play Services
-Obtener huella SHA-1
-Crear Nuevo Proyecto En Google Console Developers
-Instalar Google Play Services En Emulador
-Agregar api key a la app
-Añadir un mapa a tu aplicación
-Template MapActivity en Android Studio
-Gestos
-Controles UI
-Markers
-Tipos de mapas
-Mover la cámara
-Formas
-Manejo de eventos
+1.  Descargar y configurar los Google Play Services
+2.  Obtener huella SHA-1
+3.  Crear Nuevo Proyecto En Google Console Developers
+4.  Instalar Google Play Services En Emulador
+5.  Agregar api key a la app
+6.  Añadir un mapa a tu aplicación
+7.  Template MapActivity en Android Studio
+8.  Gestos
+9.  Controles UI
+10. Markers
+11. Tipos de mapas
+12. Mover la cámara
+13. Formas
+14. Manejo de eventos
 
