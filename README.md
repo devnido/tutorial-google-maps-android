@@ -18,12 +18,12 @@ http://www.hermosaprogramacion.com/2016/05/google-maps-android-api-v2/
 13. Formas
 14. Manejo de eventos
 
-> No olvidar agregar huella SHA-1 y crear proyecto en [Console Developer](https://console.developers.google.com)
-<div>
-´
+.. ..
+
+No olvidar agregar huella SHA-1 y crear proyecto en [Console Developer](https://console.developers.google.com)
+
 keytool -list -v -keystore "debug.keystore" -alias androiddebugkey -storepass android -keypass android
-´
-</div>
+
 
 
 
